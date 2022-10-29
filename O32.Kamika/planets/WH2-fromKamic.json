@@ -1,0 +1,36 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "WH2 from Kamic",
+	"starSystem": "O32.Kamika",
+	"Base": {
+		"surfaceSize": 10,
+		"surfaceGravity": 0,
+		"hasMapMarker": true
+	},
+	"Orbit": {
+		"semiMajorAxis": 500,
+		"inclination": 45,
+		"trueAnomaly": 120,
+		"primaryBody": "Habitable Planet",
+		"isMoon": false,
+		"isTidallyLocked": false,
+		"axialTilt": 0,
+		"longitudeOfAscendingNode": 0,
+		"eccentricity": 0,
+		"argumentOfPeriapsis": 0
+	},
+	"Props": {
+		"singularities": [
+			{
+				"size": 10,
+				"type": "whiteHole",
+				"pairedSingularity": "BH to Habitable Planet"
+			}
+		]
+	},
+	"ShipLog": {
+		"mapMode": {
+			"remove": true
+		}
+	}
+}

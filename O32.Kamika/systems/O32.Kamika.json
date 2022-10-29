@@ -1,0 +1,53 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/star_system_schema.json",
+	"canEnterViaWarpDrive": true,
+	"destroyStockPlanets": true,
+	"coords": {
+		"x": [ 0, 1, 2, 3, 4, 5 ],
+		"y": [ 1, 2, 3, 4, 5, 0 ],
+		"z": [ 2, 3, 4, 5, 0, 1 ]
+	},
+	"vesselPosition": {
+		"x": 15000,
+		"y": 0,
+		"z": 15000
+	},
+	"curiosities": [
+		{
+			"id": "Kamika",
+			"color": {
+				"r": 124,
+				"g": 6,
+				"b": 214,
+				"a": 255
+			},
+			"highlightColor": {
+				"r": 154,
+				"g": 56,
+				"b": 254,
+				"a": 255
+			}
+		}
+	],
+	"initialReveal": [
+		"PURPLE_SUN_DISCOVERY",
+		"MULTIN_DISCOVERY",
+		"GREENITE_DISCOVERY",
+		"GREDSERT_DISCOVERY",
+		"YILLOW_DISCOVERY",
+		"NREEN_DISCOVERY",
+		"ORCEAN_DISCOVERY",
+		"LUUVA_DISCOVERY",
+		"UILO_DISCOVERY",
+		"SREEF_DISCOVERY",
+		"GILDENI_DISCOVERY",
+		"ICEEN_DISCOVERY",
+		"KAMIC_DISCOVERY",
+		"OEIL_DISCOVERY",
+		"ESTR_DISCOVERY",
+		"ATOXIC_DISCOVERY",
+		"NHUCLAR_DISCOVERY",
+		"GRAVITACENTRE_DISCOVERY",
+		"GRAVAENIUM_DISCOVERY"
+	]
+}

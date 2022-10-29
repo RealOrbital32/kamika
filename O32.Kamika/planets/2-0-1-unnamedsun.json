@@ -1,0 +1,48 @@
+{
+  "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/master/NewHorizons/schema.json",
+  "name": "Unnamed Star",
+  "starSystem": "O32.Kamika",
+  "Base": {
+    "surfaceGravity": 55,
+    "surfaceSize": 5000,
+    "hasMapMarker": true,
+    "gravityFallOff": "inverseSquared"
+  },
+  "Orbit": {
+    "semiMajorAxis": 100000,
+    "inclination": 0,
+    "primaryBody": "Purple Sun",
+    "isMoon": false,
+    "isTidallyLocked": false,
+    "axialTilt": 0,
+    "longitudeOfAscendingNode": 0,
+    "eccentricity": 0,
+    "argumentOfPeriapsis": 0
+  },
+  "Star": {
+    "goSupernova": true,
+    "size": 5000,
+    "lightRadius": 60000,
+    "tint": {
+      "R": 174,
+      "G": 196,
+      "B": 214,
+      "A": 255
+    },
+    "solarFlareTint": {
+      "r": 174,
+      "g": 196,
+      "b": 214,
+      "a": 255
+    },
+    "solarLuminosity": 0.8
+  },
+  "ShipLog": {
+    "xmlFile": "planets/ShipLogs/unnamed_star.xml",
+    "spriteFolder": "planets/ShipLogs/sprites",
+    "mapMode": {
+      "scale": 5,
+      "offset": 4.25
+    }
+  }
+}

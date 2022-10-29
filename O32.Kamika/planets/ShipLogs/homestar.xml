@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>homestar</ID>
+
+    <Entry>
+        <ID>HOMESTAR</ID>
+        <Name>HomeStar</Name>
+
+        <Curiosity>Kamika</Curiosity>
+
+        <RumorFact>
+            <ID>HOMESTAR_DISCOVERY</ID>
+            <RumorName>TM's Home Star</RumorName>
+            <Text>The star of TM's Home Planet.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

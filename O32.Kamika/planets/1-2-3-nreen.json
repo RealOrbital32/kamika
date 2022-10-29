@@ -1,0 +1,36 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Nreen",
+	"starSystem": "O32.Kamika",
+	"Base": {
+		"surfaceSize": 71,
+		"surfaceGravity": 5,
+		"hasMapMarker": true
+	},
+	"Orbit": {
+		"semiMajorAxis": 1100,
+		"inclination": 0,
+		"primaryBody": "Gredsert",
+		"isMoon": true,
+		"isTidallyLocked": false,
+		"axialTilt": 0,
+		"longitudeOfAscendingNode": 0,
+		"eccentricity": 0,
+		"argumentOfPeriapsis": 0
+	},
+	"HeightMap": {
+		"textureMap": "planets/assets/nreen_texturemap.png",
+		"heightMap": "planets/assets/everything_heightmap.png",
+		"minHeight": 70,
+		"maxHeight": 71
+	},
+	"ShipLog": {
+		"xmlFile": "planets/ShipLogs/nreen.xml",
+		"spriteFolder": "planets/ShipLogs/sprites",
+		"mapMode": {
+			"revealedSprite": "planets/ShipLogs/sprites/nreen_map_mode.png",
+			"scale": 0.07,
+			"offset": -0.85
+		}
+	}
+}

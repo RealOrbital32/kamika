@@ -1,0 +1,49 @@
+{
+  "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/master/NewHorizons/schema.json",
+  "name": "TM's Home Star",
+  "starSystem": "O32.Kamika",
+  "Base": {
+    "surfaceGravity": 45,
+    "surfaceSize": 4000,
+    "hasMapMarker": true,
+    "gravityFallOff": "inverseSquared"
+  },
+  "Orbit": {
+    "semiMajorAxis": 600000,
+    "inclination": 0,
+    "trueAnomaly": 276,
+    "primaryBody": "Purple Sun",
+    "isMoon": false,
+    "isTidallyLocked": false,
+    "axialTilt": 0,
+    "longitudeOfAscendingNode": 0,
+    "eccentricity": 0,
+    "argumentOfPeriapsis": 0
+  },
+  "Star": {
+    "goSupernova": true,
+    "size": 4000,
+    "lightRadius": 60000,
+    "tint": {
+      "R": 154,
+      "G": 36,
+      "B": 114,
+      "A": 255
+    },
+    "solarFlareTint": {
+      "r": 154,
+      "g": 36,
+      "b": 114,
+      "a": 255
+    },
+    "solarLuminosity": 0.5
+  },
+  "ShipLog": {
+    "xmlFile": "planets/ShipLogs/homestar.xml",
+    "spriteFolder": "planets/ShipLogs/sprites",
+    "mapMode": {
+      "scale": 4,
+      "offset": 5.25
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Oeil",
+	"starSystem": "O32.Kamika",
+	"Base": {
+		"surfaceSize": 101,
+		"surfaceGravity": 5,
+		"hasMapMarker": true
+	},
+	"Orbit": {
+		"semiMajorAxis": 500,
+		"inclination": 0,
+		"primaryBody": "Kamic",
+		"isMoon": false,
+		"isTidallyLocked": false,
+		"axialTilt": 0,
+		"longitudeOfAscendingNode": 0,
+		"eccentricity": 0,
+		"argumentOfPeriapsis": 0
+	},
+	"Water": {
+		"size": 15,
+		"tint": {
+			"r": 15,
+			"g": 15,
+			"b": 15,
+			"a": 255
+		}
+	},
+	"Atmosphere": {
+		"fogSize": 100,
+		"size": 100,
+		"fogDensity": 0.5,
+		"fogTint": {
+			"r": 15,
+			"g": 15,
+			"b": 15,
+			"a": 255
+		},
+		"atmosphereTint": {
+			"r": 15,
+			"g": 15,
+			"b": 15,
+			"a": 255
+		},
+		"clouds": {
+			"texturePath": "planets/assets/oil_gas.png",
+			"capPath": "planets/assets/oil_cap.png",
+			"fluidType": "water",
+			"innerCloudRadius": 75,
+			"outerCloudRadius": 100
+		}
+	},
+	"ShipLog": {
+		"xmlFile": "planets/ShipLogs/oeil.xml",
+		"spriteFolder": "planets/ShipLogs/sprites",
+		"mapMode": {
+			"revealedSprite": "planets/ShipLogs/sprites/oil_map_mode.png",
+			"scale": 0.1,
+			"offset": -0.75
+		}
+	}
+}

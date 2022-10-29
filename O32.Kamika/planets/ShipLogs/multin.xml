@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>multin</ID>
+
+    <Entry>
+        <ID>MULTIN</ID>
+        <Name>Multin</Name>
+
+        <Curiosity>Kamika</Curiosity>
+
+        <RumorFact>
+            <ID>MULTIN_DISCOVERY</ID>
+            <RumorName>Multin</RumorName>
+            <Text>A planet orbiting dangerously close to the sun.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

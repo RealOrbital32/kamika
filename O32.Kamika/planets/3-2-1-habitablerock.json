@@ -1,0 +1,48 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Habitable Rock",
+	"starSystem": "O32.Kamika",
+	"Base": {
+		"surfaceSize": 100,
+		"surfaceGravity": 9,
+		"hasMapMarker": true
+	},
+	"Orbit": {
+		"semiMajorAxis": 16000,
+		"inclination": 0,
+		"trueAnomaly": 356,
+		"primaryBody": "Kaminverse Star",
+		"isMoon": false,
+		"isTidallyLocked": false,
+		"axialTilt": 0,
+		"longitudeOfAscendingNode": 0,
+		"eccentricity": 0,
+		"argumentOfPeriapsis": 0
+	},
+	"Sand": {
+		"size": 101,
+		"tint": {
+			"r": 125,
+			"g": 125,
+			"b": 125,
+			"a": 255
+		}
+	},
+	"ProcGen": {
+		"color": {
+			"r": 155,
+			"g": 155,
+			"b": 155,
+			"a": 255
+		},
+		"scale": 100
+	},
+	"ShipLog": {
+		"xmlFile": "planets/ShipLogs/habrock.xml",
+		"spriteFolder": "planets/ShipLogs/sprites",
+		"mapMode": {
+			"scale": 0.1,
+			"offset": 4.65
+		}
+	}
+}

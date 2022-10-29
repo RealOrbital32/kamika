@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>homeplanet</ID>
+
+    <Entry>
+        <ID>HOMEPLANET</ID>
+        <Name>HomePlanet</Name>
+
+        <Curiosity>Kamika</Curiosity>
+
+        <RumorFact>
+            <ID>HOMEPLANET_DISCOVERY</ID>
+            <RumorName>TM's Home Planet</RumorName>
+            <Text>The former home planet of an evil villain named "Tentacle Man".</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>luuva</ID>
+
+    <Entry>
+        <ID>LUUVA</ID>
+        <Name>Luuva</Name>
+
+        <Curiosity>Kamika</Curiosity>
+
+        <RumorFact>
+            <ID>LUUVA_DISCOVERY</ID>
+            <RumorName>Luuva</RumorName>
+            <Text>Orbits Orcean, and is made out of lava. Nothing special.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

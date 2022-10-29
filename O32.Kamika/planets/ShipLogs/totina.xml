@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>totina</ID>
+
+    <Entry>
+        <ID>TOTINA</ID>
+        <Name>Totina</Name>
+
+        <Curiosity>Kamika</Curiosity>
+
+        <RumorFact>
+            <ID>TOTINA_DISCOVERY</ID>
+            <RumorName>Totina</RumorName>
+            <Text>Black and white, just like Kamic. Was once home to the Emperor and his subjects.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

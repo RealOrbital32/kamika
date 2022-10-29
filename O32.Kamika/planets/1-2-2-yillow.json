@@ -1,0 +1,36 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Yillow",
+	"starSystem": "O32.Kamika",
+	"Base": {
+		"surfaceSize": 101,
+		"surfaceGravity": 5,
+		"hasMapMarker": true
+	},
+	"Orbit": {
+		"semiMajorAxis": 700,
+		"inclination": 0,
+		"primaryBody": "Gredsert",
+		"isMoon": true,
+		"isTidallyLocked": false,
+		"axialTilt": 0,
+		"longitudeOfAscendingNode": 0,
+		"eccentricity": 0,
+		"argumentOfPeriapsis": 0
+	},
+	"HeightMap": {
+		"textureMap": "planets/assets/yillow_texturemap.png",
+		"heightMap": "planets/assets/everything_heightmap.png",
+		"minHeight": 100,
+		"maxHeight": 101
+	},
+	"ShipLog": {
+		"xmlFile": "planets/ShipLogs/yillow.xml",
+		"spriteFolder": "planets/ShipLogs/sprites",
+		"mapMode": {
+			"revealedSprite": "planets/ShipLogs/sprites/yillow_map_mode.png",
+			"scale": 0.1,
+			"offset": -0.75
+		}
+	}
+}

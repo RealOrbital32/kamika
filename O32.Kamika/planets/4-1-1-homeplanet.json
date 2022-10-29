@@ -1,0 +1,70 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "TM's Home Planet",
+	"starSystem": "O32.Kamika",
+	"Base": {
+		"surfaceSize": 450,
+		"surfaceGravity": 16,
+		"hasMapMarker": true
+	},
+	"Orbit": {
+		"semiMajorAxis": 8000,
+		"inclination": 0,
+		"trueAnomaly": 156,
+		"primaryBody": "TM's Home Star",
+		"isMoon": false,
+		"isTidallyLocked": false,
+		"axialTilt": 0,
+		"longitudeOfAscendingNode": 0,
+		"eccentricity": 0,
+		"argumentOfPeriapsis": 0
+	},
+	"ProcGen": {
+		"color": {
+			"r": 186,
+			"g": 44,
+			"b": 146,
+			"a": 255
+		},
+		"scale": 250
+	},
+	"Atmosphere": {
+		"fogSize": 330,
+		"size": 330,
+		"fogDensity": 0.5,
+		"fogTint": {
+			"r": 186,
+			"g": 44,
+			"b": 146,
+			"a": 255
+		},
+		"atmosphereTint": {
+			"r": 186,
+			"g": 44,
+			"b": 146,
+			"a": 255
+		},
+		"clouds": {
+			"texturePath": "planets/assets/home_gas.png",
+			"capPath": "planets/assets/home_cap.png",
+			"fluidType": "plasma",
+			"cloudsPrefab": "quantumMoon",
+			"innerCloudRadius": 300,
+			"outerCloudRadius": 330,
+			"tint": {
+				"r": 186,
+				"g": 44,
+				"b": 146,
+				"a": 255
+			}
+		}
+	},
+	"ShipLog": {
+		"xmlFile": "planets/ShipLogs/homeplanet.xml",
+		"spriteFolder": "planets/ShipLogs/sprites",
+		"mapMode": {
+			"scale": 0.35,
+			"offset": 1.85
+		}
+	}
+}

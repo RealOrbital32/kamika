@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>gildeni</ID>
+
+    <Entry>
+        <ID>GILDENI</ID>
+        <Name>Gildeni</Name>
+
+        <Curiosity>Kamika</Curiosity>
+
+        <RumorFact>
+            <ID>GILDENI_DISCOVERY</ID>
+            <RumorName>Gildeni</RumorName>
+            <Text>Moon of Uilo, and looks like it's made of gold.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

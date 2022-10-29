@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>gredsert</ID>
+
+    <Entry>
+        <ID>GREDSERT</ID>
+        <Name>Gredsert</Name>
+
+        <Curiosity>Kamika</Curiosity>
+
+        <RumorFact>
+            <ID>GREDSERT_DISCOVERY</ID>
+            <RumorName>Gredsert</RumorName>
+            <Text>Completely made out of red sand, and has an atmosphere.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

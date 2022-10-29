@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>habplanet</ID>
+
+    <Entry>
+        <ID>HABPLANET</ID>
+        <Name>HabPlanet</Name>
+
+        <Curiosity>Kamika</Curiosity>
+
+        <RumorFact>
+            <ID>HABPLANET_DISCOVERY</ID>
+            <RumorName>Habitable Planet</RumorName>
+            <Text>The name says it all. Somebody turned up the atmospheric pressure, though.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

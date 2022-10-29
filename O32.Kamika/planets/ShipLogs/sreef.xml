@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>sreef</ID>
+
+    <Entry>
+        <ID>SREEF</ID>
+        <Name>Sreef</Name>
+
+        <Curiosity>Kamika</Curiosity>
+
+        <RumorFact>
+            <ID>SREEF_DISCOVERY</ID>
+            <RumorName>Sreef</RumorName>
+            <Text>Completely blue, orbits Uilo. Looks like water but isn't.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

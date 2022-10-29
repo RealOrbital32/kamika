@@ -1,0 +1,39 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Luuva",
+	"starSystem": "O32.Kamika",
+	"Base": {
+		"surfaceSize": 121,
+		"surfaceGravity": 5,
+		"hasMapMarker": true
+	},
+	"Orbit": {
+		"semiMajorAxis": 950,
+		"inclination": 0,
+		"primaryBody": "Orcean",
+		"isMoon": true,
+		"isTidallyLocked": false,
+		"axialTilt": 0,
+		"longitudeOfAscendingNode": 0,
+		"eccentricity": 0,
+		"argumentOfPeriapsis": 0
+	},
+	"Lava": {
+		"size": 121,
+		"tint": {
+			"r": 128,
+			"g": 17,
+			"b": 28,
+			"a": 255
+		}
+	},
+	"ShipLog": {
+		"xmlFile": "planets/ShipLogs/luuva.xml",
+		"spriteFolder": "planets/ShipLogs/sprites",
+		"mapMode": {
+			"revealedSprite": "planets/ShipLogs/sprites/luuva_map_mode.png",
+			"scale": 0.12,
+			"offset": -0.75
+		}
+	}
+}

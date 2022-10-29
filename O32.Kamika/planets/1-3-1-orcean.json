@@ -1,0 +1,63 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Orcean",
+	"starSystem": "O32.Kamika",
+	"Base": {
+		"surfaceSize": 251,
+		"surfaceGravity": 15,
+		"hasMapMarker": true
+	},
+	"Orbit": {
+		"semiMajorAxis": 17000,
+		"inclination": 0,
+		"trueAnomaly": 13,
+		"primaryBody": "Purple Sun",
+		"isMoon": false,
+		"isTidallyLocked": false,
+		"axialTilt": 0,
+		"longitudeOfAscendingNode": 0,
+		"eccentricity": 0,
+		"argumentOfPeriapsis": 0
+	},
+	"Water": {
+		"size": 205,
+		"tint": {
+			"r": 5,
+			"g": 176,
+			"b": 255,
+			"a": 255
+		}
+	},
+	"HeightMap": {
+		"textureMap": "planets/assets/orcean_texturemap.png",
+		"heightMap": "planets/assets/orcean_heightmap.png",
+		"minHeight": 180,
+		"maxHeight": 220
+	},
+	"Atmosphere": {
+		"fogSize": 250,
+		"size": 250,
+		"fogDensity": 0.5,
+		"fogTint": {
+			"r": 5,
+			"g": 122,
+			"b": 255,
+			"a": 255
+		},
+		"atmosphereTint": {
+			"r": 5,
+			"g": 122,
+			"b": 255,
+			"a": 255
+		}
+	},
+	"ShipLog": {
+		"xmlFile": "planets/ShipLogs/orcean.xml",
+		"spriteFolder": "planets/ShipLogs/sprites",
+		"mapMode": {
+			"revealedSprite": "planets/ShipLogs/sprites/orcean_map_mode.png",
+			"scale": 0.25,
+			"offset": -0.45
+		}
+	}
+}

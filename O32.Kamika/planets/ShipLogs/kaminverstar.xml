@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>kaminverstar</ID>
+
+    <Entry>
+        <ID>KAMINVERSTAR</ID>
+        <Name>Kaminverstar</Name>
+
+        <Curiosity>Kamika</Curiosity>
+
+        <RumorFact>
+            <ID>KAMINVERSTAR_DISCOVERY</ID>
+            <RumorName>Kaminverstar</RumorName>
+            <Text>One of many stars in the Kaminverse, but oh well, I guess this one is more important.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

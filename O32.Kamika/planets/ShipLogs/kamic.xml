@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>kamic</ID>
+
+    <Entry>
+        <ID>KAMIC</ID>
+        <Name>Kamic</Name>
+
+        <Curiosity>Kamika</Curiosity>
+
+        <RumorFact>
+            <ID>KAMIC_DISCOVERY</ID>
+            <RumorName>Kamic</RumorName>
+            <Text>Everything on this planet is black and white. Despite the minimal surface area, there used to be life here, and they turned into an intersteller civilization and left this system.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

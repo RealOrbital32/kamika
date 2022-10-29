@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>iceen</ID>
+
+    <Entry>
+        <ID>ICEEN</ID>
+        <Name>Iceen</Name>
+
+        <Curiosity>Kamika</Curiosity>
+
+        <RumorFact>
+            <ID>ICEEN_DISCOVERY</ID>
+            <RumorName>Iceen</RumorName>
+            <Text>It's surface used to be made of water, but is now ice. Has a crimson-red surface.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

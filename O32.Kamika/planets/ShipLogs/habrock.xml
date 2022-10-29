@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>habrock</ID>
+
+    <Entry>
+        <ID>HABROCK</ID>
+        <Name>HabRock</Name>
+
+        <Curiosity>Kamika</Curiosity>
+
+        <RumorFact>
+            <ID>HABROCK_DISCOVERY</ID>
+            <RumorName>Habitable Rock</RumorName>
+            <Text>goofy ahh planet</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

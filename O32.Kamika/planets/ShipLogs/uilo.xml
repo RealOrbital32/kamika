@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>uilo</ID>
+
+    <Entry>
+        <ID>UILO</ID>
+        <Name>Uilo</Name>
+
+        <Curiosity>Kamika</Curiosity>
+
+        <RumorFact>
+            <ID>UILO_DISCOVERY</ID>
+            <RumorName>Uilo</RumorName>
+            <Text>Completely covered in oil. Even the atmosphere is made of oil.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

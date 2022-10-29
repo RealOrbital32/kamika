@@ -1,0 +1,36 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Gravaenium",
+	"starSystem": "O32.Kamika",
+	"Base": {
+		"surfaceSize": 451,
+		"surfaceGravity": 15,
+		"hasMapMarker": true
+	},
+	"Orbit": {
+		"semiMajorAxis": 3000,
+		"inclination": 25,
+		"primaryBody": "Gravitacentre",
+		"isMoon": true,
+		"isTidallyLocked": false,
+		"axialTilt": 0,
+		"longitudeOfAscendingNode": 0,
+		"eccentricity": 0,
+		"argumentOfPeriapsis": 0
+	},
+	"HeightMap": {
+		"textureMap": "planets/assets/gravaenium_texturemap.png",
+		"heightMap": "planets/assets/gravaenium_heightmap.png",
+		"minHeight": 380,
+		"maxHeight": 421
+	},
+	"ShipLog": {
+		"xmlFile": "planets/ShipLogs/gravaenium.xml",
+		"spriteFolder": "planets/ShipLogs/sprites",
+		"mapMode": {
+			"revealedSprite": "planets/ShipLogs/sprites/gravaenium_map_mode.png",
+			"scale": 0.45,
+			"offset": 0.35
+		}
+	}
+}

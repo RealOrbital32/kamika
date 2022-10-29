@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>estr</ID>
+
+    <Entry>
+        <ID>ESTR</ID>
+        <Name>Estr</Name>
+
+        <Curiosity>Kamika</Curiosity>
+
+        <RumorFact>
+            <ID>ESTR_DISCOVERY</ID>
+            <RumorName>Estr</RumorName>
+            <Text>Moon of Kamic, and looks like and easter egg, hence the name.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

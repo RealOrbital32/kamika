@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>greenite</ID>
+
+    <Entry>
+        <ID>GREENITE</ID>
+        <Name>Greenite</Name>
+
+        <Curiosity>Kamika</Curiosity>
+
+        <RumorFact>
+            <ID>GREENITE_DISCOVERY</ID>
+            <RumorName>Greenite</RumorName>
+            <Text>A green moon that somehow orbits Multin despite the gravtiy from Purple Sun.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>atoxic</ID>
+
+    <Entry>
+        <ID>ATOXIC</ID>
+        <Name>Atoxic</Name>
+
+        <Curiosity>Kamika</Curiosity>
+
+        <RumorFact>
+            <ID>ATOXIC_DISCOVERY</ID>
+            <RumorName>Atoxic</RumorName>
+            <Text>As the name suggests, a planet full of toxic acid.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

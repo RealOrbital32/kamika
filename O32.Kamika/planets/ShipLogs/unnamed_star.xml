@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>unnamed_star</ID>
+
+    <Entry>
+        <ID>UNNAMED_STAR</ID>
+        <Name>Unnamed_Star</Name>
+
+        <Curiosity>Kamika</Curiosity>
+
+        <RumorFact>
+            <ID>UNNAMED_STAR_DISCOVERY</ID>
+            <RumorName>Unnamed Star</RumorName>
+            <Text>A star without a name.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

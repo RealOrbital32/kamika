@@ -1,0 +1,62 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Totina",
+	"starSystem": "O32.Kamika",
+	"Base": {
+		"surfaceSize": 251,
+		"surfaceGravity": 15,
+		"hasMapMarker": true
+	},
+	"Orbit": {
+		"semiMajorAxis": 13000,
+		"inclination": 0,
+		"trueAnomaly": 13,
+		"primaryBody": "Unnamed Star",
+		"isMoon": false,
+		"isTidallyLocked": false,
+		"axialTilt": 0,
+		"longitudeOfAscendingNode": 0,
+		"eccentricity": 0,
+		"argumentOfPeriapsis": 0
+	},
+	"Water": {
+		"size": 205,
+		"tint": {
+			"r": 5,
+			"g": 176,
+			"b": 255,
+			"a": 255
+		}
+	},
+	"HeightMap": {
+		"textureMap": "planets/assets/orcean_heightmap.png",
+		"heightMap": "planets/assets/orcean_heightmap.png",
+		"minHeight": 180,
+		"maxHeight": 220
+	},
+	"Atmosphere": {
+		"fogSize": 250,
+		"size": 250,
+		"fogDensity": 0.5,
+		"fogTint": {
+			"r": 255,
+			"g": 255,
+			"b": 255,
+			"a": 255
+		},
+		"atmosphereTint": {
+			"r": 255,
+			"g": 255,
+			"b": 255,
+			"a": 255
+		}
+	},
+	"ShipLog": {
+		"xmlFile": "planets/ShipLogs/totina.xml",
+		"spriteFolder": "planets/ShipLogs/sprites",
+		"mapMode": {
+			"scale": 0.25,
+			"offset": 2.45
+		}
+	}
+}

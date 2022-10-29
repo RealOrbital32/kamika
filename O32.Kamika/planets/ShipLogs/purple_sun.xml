@@ -1,0 +1,17 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>purple_sun</ID>
+
+    <Entry>
+        <ID>PURPLE_SUN</ID>
+        <Name>Purple_Sun</Name>
+
+        <Curiosity>Kamika</Curiosity>
+		<IsCuriosity/> true
+
+        <RumorFact>
+            <ID>PURPLE_SUN_DISCOVERY</ID>
+            <RumorName>Purple Sun</RumorName>
+            <Text>The star of this system. Colored purple, and made out of a strange gravitational substance, which allows it to hold onto more planets for it's size.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

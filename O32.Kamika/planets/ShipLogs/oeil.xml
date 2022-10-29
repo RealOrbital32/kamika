@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>oeil</ID>
+
+    <Entry>
+        <ID>OEIL</ID>
+        <Name>Oeil</Name>
+
+        <Curiosity>Kamika</Curiosity>
+
+        <RumorFact>
+            <ID>OEIL_DISCOVERY</ID>
+            <RumorName>Oeil</RumorName>
+            <Text>An oily moon that orbits Kamic. No wonder they got such a technological advantage.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

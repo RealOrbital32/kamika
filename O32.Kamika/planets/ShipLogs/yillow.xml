@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>yillow</ID>
+
+    <Entry>
+        <ID>YILLOW</ID>
+        <Name>Yillow</Name>
+
+        <Curiosity>Kamika</Curiosity>
+
+        <RumorFact>
+            <ID>YILLOW_DISCOVERY</ID>
+            <RumorName>Yillow</RumorName>
+            <Text>It's just "yellow" but they changed the second letter. Outstanding move.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

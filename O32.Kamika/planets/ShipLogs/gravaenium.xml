@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>gravaenium</ID>
+
+    <Entry>
+        <ID>GRAVAENIUM</ID>
+        <Name>Gravaenium</Name>
+
+        <Curiosity>Kamika</Curiosity>
+
+        <RumorFact>
+            <ID>GRAVAENIUM_DISCOVERY</ID>
+            <RumorName>Gravaenium</RumorName>
+            <Text>This planet-sized moon has many hills, colored purple. It is full of gravity crystal deposits.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

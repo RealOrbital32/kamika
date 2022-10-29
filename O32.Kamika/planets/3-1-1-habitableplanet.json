@@ -1,0 +1,83 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Habitable Planet",
+	"starSystem": "O32.Kamika",
+	"Base": {
+		"surfaceSize": 450,
+		"surfaceGravity": 16,
+		"hasMapMarker": true
+	},
+	"Orbit": {
+		"semiMajorAxis": 21000,
+		"inclination": 0,
+		"trueAnomaly": 156,
+		"primaryBody": "Kaminverse Star",
+		"isMoon": false,
+		"isTidallyLocked": false,
+		"axialTilt": 0,
+		"longitudeOfAscendingNode": 0,
+		"eccentricity": 0,
+		"argumentOfPeriapsis": 0
+	},
+	"Water": {
+		"size": 351,
+		"tint": {
+			"r": 78,
+			"g": 163,
+			"b": 220,
+			"a": 255
+		}
+	},
+	"ProcGen": {
+		"color": {
+			"r": 86,
+			"g": 144,
+			"b": 76,
+			"a": 255
+		},
+		"scale": 350
+	},
+	"Ring": {
+		"texture": "planets/assets/habplanet_rings.png",
+		"innerRadius": 475,
+		"outerRadius": 600
+	},
+	"Atmosphere": {
+		"fogSize": 450,
+		"size": 450,
+		"fogDensity": 0.5,
+		"fogTint": {
+			"r": 167,
+			"g": 207,
+			"b": 235,
+			"a": 255
+		},
+		"atmosphereTint": {
+			"r": 167,
+			"g": 207,
+			"b": 235,
+			"a": 255
+		},
+		"clouds": {
+			"texturePath": "planets/assets/habplanet_gas.png",
+			"capPath": "planets/assets/habplanet_cap.png",
+			"fluidType": "plasma",
+			"innerCloudRadius": 400,
+			"outerCloudRadius": 450,
+			"tint": {
+				"r": 167,
+				"g": 207,
+				"b": 235,
+				"a": 255
+			}
+		}
+	},
+	"ShipLog": {
+		"xmlFile": "planets/ShipLogs/habplanet.xml",
+		"spriteFolder": "planets/ShipLogs/sprites",
+		"mapMode": {
+			"scale": 0.45,
+			"offset": 0.25
+		}
+	}
+}

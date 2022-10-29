@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>nreen</ID>
+
+    <Entry>
+        <ID>NREEN</ID>
+        <Name>Nreen</Name>
+
+        <Curiosity>Kamika</Curiosity>
+
+        <RumorFact>
+            <ID>NREEN_DISCOVERY</ID>
+            <RumorName>Nreen</RumorName>
+            <Text>Orbits Gredsert, and is a bright lime-green color.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

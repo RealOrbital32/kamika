@@ -1,0 +1,49 @@
+{
+  "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/master/NewHorizons/schema.json",
+  "name": "Kaminverse Star",
+  "starSystem": "O32.Kamika",
+  "Base": {
+    "surfaceGravity": 75,
+    "surfaceSize": 9000,
+    "hasMapMarker": true,
+    "gravityFallOff": "inverseSquared"
+  },
+  "Orbit": {
+    "semiMajorAxis": 300000,
+    "inclination": 0,
+    "trueAnomaly": 138,
+    "primaryBody": "Purple Sun",
+    "isMoon": false,
+    "isTidallyLocked": false,
+    "axialTilt": 0,
+    "longitudeOfAscendingNode": 0,
+    "eccentricity": 0,
+    "argumentOfPeriapsis": 0
+  },
+  "Star": {
+    "goSupernova": true,
+    "size": 9000,
+    "lightRadius": 60000,
+    "tint": {
+      "R": 154,
+      "G": 126,
+      "B": 114,
+      "A": 255
+    },
+    "solarFlareTint": {
+      "r": 154,
+      "g": 126,
+      "b": 114,
+      "a": 255
+    },
+    "solarLuminosity": 0.8
+  },
+  "ShipLog": {
+    "xmlFile": "planets/ShipLogs/kaminverstar.xml",
+    "spriteFolder": "planets/ShipLogs/sprites",
+    "mapMode": {
+      "scale": 9,
+      "offset": 8.25
+    }
+  }
+}

@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>nhuclar</ID>
+
+    <Entry>
+        <ID>NHUCLAR</ID>
+        <Name>Nhuclar</Name>
+
+        <Curiosity>Kamika</Curiosity>
+
+        <RumorFact>
+            <ID>NHUCLAR_DISCOVERY</ID>
+            <RumorName>Nhuclar</RumorName>
+            <Text>Orbits Atoxic, and made out liquidated nuclear acid.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

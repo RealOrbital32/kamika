@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>gravitacentre</ID>
+
+    <Entry>
+        <ID>GRAVITACENTRE</ID>
+        <Name>Gravitacentre</Name>
+
+        <Curiosity>Kamika</Curiosity>
+
+        <RumorFact>
+            <ID>GRAVITACENTRE_DISCOVERY</ID>
+            <RumorName>Gravitacentre</RumorName>
+            <Text>Largest planet in the system. It is a purple gas giant, with the gas being composed out of a substance that increases gravity. It's core is roughly the same.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>
